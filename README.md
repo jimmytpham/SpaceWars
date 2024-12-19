@@ -9,3 +9,7 @@ The game is a 2D action-oriented game where the player controls a character that
 •	Enemy Spawning: Enemies spawn at regular intervals that decrease over time to increase difficulty.<br/>
 •	Collision Detection: The game checks for collisions between bullets and enemies, as well as between the player and enemies.<br/>
 
+## Screen Shots
+![Alt text](./Screenshot2.png)
+![Alt text](./Screenshot.png)
+![Alt text](./Screenshot1.png)
